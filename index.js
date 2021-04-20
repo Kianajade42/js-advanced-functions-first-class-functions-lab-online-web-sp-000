@@ -15,3 +15,6 @@ const createFareMultiplier = function (multiply){
 
 const fareDoubler= function(value)
 {return (value*2);};
+
+const fareTripler= function(triple)
+{return (triple*3);};
