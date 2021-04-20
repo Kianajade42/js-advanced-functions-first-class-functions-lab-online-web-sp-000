@@ -13,5 +13,5 @@ const createFareMultiplier = function (multiply){
   };
 };
 
-const fareDoubler= function()
+const fareDoubler= function(value)
 {return (value*2);};
