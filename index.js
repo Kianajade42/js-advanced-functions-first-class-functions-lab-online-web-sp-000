@@ -5,7 +5,7 @@ const returnFirstTwoDrivers=function(drivers)
 const returnLastTwoDrivers = function (drivers)
  {return drivers.slice(-2);};
 
-const selectingDrivers=[ returnFirstTwoDrivers, returnLastTwoDrivers]; 
+const selectingDrivers=[ returnFirstTwoDrivers, returnLastTwoDrivers];
 
 const createFareMultiplier = function (multiply){
   return function (value) {
