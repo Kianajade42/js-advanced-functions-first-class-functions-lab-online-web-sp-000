@@ -18,3 +18,6 @@ const fareDoubler= function(value)
 
 const fareTripler= function(triple)
 {return (triple*3);};
+
+const selectDifferentDrivers= function(drivers, whichDrivers)
+{return whichDrivers(drivers);};
